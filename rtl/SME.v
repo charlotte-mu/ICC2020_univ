@@ -2,7 +2,7 @@
 //MODULE:		SME
 //FILE NAME:	SME.v
 //VERSION:		1.0
-//DATE:			March,2020
+//DATE:			March,2
 //AUTHOR: 		charlotte-mu
 //CODE TYPE:	RTL
 //DESCRIPTION:	2020 University/College IC Design Contest
